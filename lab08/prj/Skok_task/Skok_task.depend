@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1678920095 source:d:\Ырср9\prj\skok_task\main.cpp
+	<iostream>
+	<math.h>
+	<ModulesSkok.h>
+	<iomanip>
+	<clocale>
+	<stdlib.h>
+
+1678874489 d:\Ырср9\prj\modulesskok\modulesskok.h
+
