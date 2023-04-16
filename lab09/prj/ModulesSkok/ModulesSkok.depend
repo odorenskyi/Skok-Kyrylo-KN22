@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1681602176 source:d:\лаба 9 2\modulesskok\main.cpp
+	"ModulesSkok.h"
+	<cmath>
+	<locale>
+	<iostream>
+
+1681602176 d:\лаба 9 2\modulesskok\modulesskok.h
+
