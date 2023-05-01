@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1682906458 source:d:\Лабораторна 10\prj\testdriver\main.cpp
+	<iostream>
+	<string>
+	<ModulesSkok.h>
+	<clocale>
+	<fstream>
+
+1682866739 d:\Лабораторна 10\prj\modulesskok\modulesskok.h
+	<string>
+
