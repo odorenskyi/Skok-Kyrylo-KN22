@@ -2,7 +2,7 @@
 #define STRUCT_TYPE_PROJECT_12_H_INCLUDED
 #include <string>
 #include <vector>
-using nemespace std;
+using namespace std;
 struct Benefits
 {
     int code_ben;
