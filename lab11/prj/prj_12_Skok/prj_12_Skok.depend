@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1686018405 source:d:\1 kf,f\prj\prj_12_skok\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<Windows.h>
+	"../struct_type_project_12.h"
+	"../Module_Skok.h"
+	"../ModulesKucher.h"
+	"../ModulesPylypenko.h"
+
+1685917357 d:\1 kf,f\prj\prj_12_skok\struct_type_project_12.h
+	<string>
+	<vector>
+
+1685920042 d:\1 kf,f\prj\skok_modules\skok_modules.h
+
+1685992686 d:\1 kf,f\prj\module_skok.h
+	<iostream>
+	<fstream>
+	"struct_type_project_12.h"
+
+1685917357 d:\1 kf,f\prj\struct_type_project_12.h
+	<string>
+	<vector>
+
+1685999185 d:\1 kf,f\prj\moduleskucher.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<Windows.h>
+	"struct_type_project_12.h"
+
+1685999169 d:\1 kf,f\prj\modulespylypenko.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<Windows.h>
+	"struct_type_project_12.h"
+
